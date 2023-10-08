@@ -1,20 +1,14 @@
-\documentclass[titlepage,draft,8pt]{book}
+\documentclass[draft,9pt,twoside,openright]{memoir}
+\usepackage[english]{babel}
 \usepackage[paper=a5paper]{geometry}
-\usepackage{titlesec}
+\usepackage{microtype}
 \pagestyle{plain}
 
 \begin{document}
 \frontmatter
 \include{title_page}
-\maketitle
-\section*{Distribution}
-Copyright 1987, 1991 Theodore T. Tool. All rights reserved.
-
-Permission to reproduce this document on a non-profit basis is granted provided that this copyright and distribution notice is included in full. 
-The information in this booklet is provided for educational purposes only. 
-
-August 1991 revision.
-
+\cleardoublepage
+\include{copyrigth}
 \tableofcontents
 \mainmatter
 \include{chapters/chapter1}
@@ -28,4 +22,6 @@ August 1991 revision.
 \include{chapters/chapter9}
 \include{chapters/chapter10}
 \include{appendixes/appendixA}
+\include{appendixes/appendixB}
+\newpage\
 \end{document}
