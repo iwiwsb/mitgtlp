@@ -1,0 +1,9 @@
+*.pdf
+*.gz
+*.log
+*.aux
+*.bbl
+*.blg
+*.ps
+
+/auxiliary
