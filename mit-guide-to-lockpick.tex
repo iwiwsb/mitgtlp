@@ -1,17 +1,22 @@
-\documentclass[titlepage,draft]{book}
+\documentclass[titlepage,draft,8pt]{book}
 \usepackage[paper=a5paper]{geometry}
+\usepackage{titlesec}
+\pagestyle{plain}
+
 \begin{document}
+\frontmatter
 \include{title_page}
 \maketitle
 \section*{Distribution}
-
 Copyright 1987, 1991 Theodore T. Tool. All rights reserved.
 
 Permission to reproduce this document on a non-profit basis is granted provided that this copyright and distribution notice is included in full. 
 The information in this booklet is provided for educational purposes only. 
 
 August 1991 revision.
+
 \tableofcontents
+\mainmatter
 \include{chapters/chapter1}
 \include{chapters/chapter2}
 \include{chapters/chapter3}
@@ -19,4 +24,8 @@ August 1991 revision.
 \include{chapters/chapter5}
 \include{chapters/chapter6}
 \include{chapters/chapter7}
+\include{chapters/chapter8}
+\include{chapters/chapter9}
+\include{chapters/chapter10}
+\include{appendixes/appendixA}
 \end{document}
