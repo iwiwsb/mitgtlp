@@ -4,7 +4,6 @@ Famous Guide To Lock Picking recreated in LaTeX
 The following code of ethics should be adhered to in any form of hacking, lock picking included.
 - Be SUBTLE — leave no evidence that you were ever there. (This is a general rule which applies to lots of circumstances — a few are enumerated explicitly in this list, but many principles follow from this simple edict)
 - Leave things as you found them (or better).
-- If you find something broken call F-IXIT (a local number for reporting problems with the buildings and grounds — Hackers often go places the normal institute workers do not frequent regularly and hence may see problems before the workers do).
 - Leave no damage.
 - Do not steal anything.
 - Brute force is the last resort of the incompetent.
