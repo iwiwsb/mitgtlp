@@ -11,3 +11,7 @@ The following code of ethics should be adhered to in any form of hacking, lock p
 - Do not drop things (off a building w/out a ground crew).
 - Do not hack alone (just like swimming).
 - Exercise COMMON SENSE. (This is another general rule with very wide applicability — when exploring, you are often in places which were not intended for normal traffic. The people who built the area may not have assumed anyone would be there without special knowledge of the area. Many of the assumptions you are used to making are not valid or applicable while hacking. It is very important that you stay alert and think clearly.)
+## Copyright
+Text: Copyright © 1987, 1991 Theodore T. Tool. All rights reserved.
+
+Images: Copyright © 2013 Jason Raveling. All rights reserved
