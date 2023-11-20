@@ -1,5 +1,5 @@
 # Guide To Lock Picking
-The famous \[REDACTED\] *Guide To Lock Picking* recreated in LaTeX
+The famous \[REDACTED\] *Guide To Lock Picking* recreated in LaTeX with updated images
 ## Code of ethics
 The following code of ethics should be adhered to in any form of hacking, lock picking included.
 - Be SUBTLE — leave no evidence that you were ever there. (This is a general rule which applies to lots of circumstances — a few are enumerated explicitly in this list, but many principles follow from this simple edict)
